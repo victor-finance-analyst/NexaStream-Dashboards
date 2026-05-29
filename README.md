@@ -39,3 +39,13 @@ Screenshots of each dashboard are available in the `images/` folder:
 | Customer Operations | `images/customer_operations.png` |
 | HR Dashboard | `images/hr_dashboard.png` |
 | Executive Summary | `images/executive_summary.png` |
+
+## Dashboard Previews
+
+![Finance Dashboard](images/finance_dashboard.png)
+
+![Customer Operations](images/customer_operations.png)
+
+![HR Dashboard](images/hr_dashboard.png)
+
+![Executive Summary](images/executive_summary.png)
